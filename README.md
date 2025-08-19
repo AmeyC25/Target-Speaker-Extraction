@@ -5,9 +5,7 @@
 
 ### Install for development & deployment
 * Clone this repo
-``` sh
-https://github.com/wenet-e2e/wesep.git
-```
+
 
 * Create conda env: pytorch version >= 1.12.0 is required !!!
 ``` sh
@@ -64,4 +62,5 @@ Following Wenet and Wespeaker, WeSep organizes the data processing modules as a 
   doi       = {10.21437/Interspeech.2024-1840},
 }
 ```
+
 
