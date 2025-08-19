@@ -60,25 +60,8 @@ Following Wenet and Wespeaker, WeSep organizes the data processing modules as a 
 
 <img src="resources/datapipe.png" width="800px">
 
-## Discussion
 
-For Chinese users, you can scan the QR code on the left to join our group directly. If it has expired, please scan the personal Wechat QR code on the right.
-
-|<img src='resources/Wechat_group.jpg' style=" width: 200px; height: 300px;">|<img src='resources/Wechat.jpg' style=" width: 200px; height: 300px;">|
-| ---- | ---- |
-
-
-
-## Citations
-If you find wespeaker useful, please cite it as
-
-```bibtex
-@inproceedings{wang24fa_interspeech,
-  title     = {WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction},
-  author    = {Shuai Wang and Ke Zhang and Shaoxiong Lin and Junjie Li and Xuefei Wang and Meng Ge and Jianwei Yu and Yanmin Qian and Haizhou Li},
-  year      = {2024},
-  booktitle = {Interspeech 2024},
-  pages     = {4273--4277},
   doi       = {10.21437/Interspeech.2024-1840},
 }
 ```
+
